@@ -1,0 +1,25 @@
+body {
+  background-color: #e3941de1;
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 40rem;
+  border-radius: 1rem;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+}
